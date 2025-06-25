@@ -1,0 +1,64 @@
+.contactSection {
+  background-color: #f0fdf4;
+  padding: 4rem 2rem;
+  text-align: center;
+  font-family: "Segoe UI", "Roboto", sans-serif;
+}
+
+.contactTitle {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #14532d;
+}
+
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.contactInfo p {
+  font-size: 1.2rem;
+  color: #064e3b;
+  display: flex;
+  align-items: center;
+}
+
+.contactInfo a {
+  margin-left: 0.5rem;
+  color: #047857;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.contactInfo a:hover {
+  color: #065f46;
+  text-decoration: underline;
+}
+
+.icon {
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+  color: #16a34a;
+  vertical-align: middle;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.socialIcons a {
+  color: #16a34a;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.socialIcons a:hover {
+  color: #15803d;
+  transform: scale(1.2);
+}

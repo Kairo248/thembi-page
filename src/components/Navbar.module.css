@@ -1,0 +1,24 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 50;
+}
+
+.navList {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem;
+  color: #065f46;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.navList li:hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,18 @@
+.aboutSection {
+  padding: 1.5rem;
+  background-color: white;
+  text-align: center;
+}
+
+.aboutTitle {
+  font-size: 1.875rem; 
+  font-weight: 700;
+  color: #047857; 
+  margin-bottom: 1rem;
+}
+
+.aboutText {
+  max-width: 40rem; 
+  margin: 0 auto;
+  color: #374151; 
+}

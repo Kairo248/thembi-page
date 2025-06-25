@@ -1,0 +1,41 @@
+.c9Container {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f0fdf4;
+  min-height: 80vh;
+}
+
+.c9Title {
+  font-size: 2.25rem;
+  margin-bottom: 1rem;
+  color: #14532d;
+  text-decoration: none;
+}
+
+.c9Image {
+  margin-bottom: 1.5rem;
+  border-radius: 1rem;
+}
+
+.c9Description {
+  font-size: 1.125rem;
+  color: #064e3b;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.backButton {
+  display: inline-block;
+  margin-top: 2rem;
+  color: #fff;
+  background-color: #16a34a;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.backButton:hover {
+  background-color: #15803d;
+}
+
