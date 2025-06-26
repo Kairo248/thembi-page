@@ -22,13 +22,19 @@ export default function Contact() {
 
       
       <div className={styles.socialIcons}>
-        <a href="https://instagram.com/herbusiness" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/thembakazismith?igsh=dWJlejk0em5ld2p3&utm_source=qr"
+           target="_blank"
+           rel="noopener noreferrer">
           <FaInstagram />
         </a>
-        <a href="https://facebook.com/herbusiness" target="_blank" rel="noopener noreferrer">
+        <a href="https://facebook.com/thembakazizethu.smith"
+           target="_blank"
+           rel="noopener noreferrer">
           <FaFacebook />
         </a>
-        <a href="https://tiktok.com/@herbusiness" target="_blank" rel="noopener noreferrer">
+        <a href="https://tiktok.com/@termsie? t=ZM-8xWsALP9Xcb& r=1"
+           target="_blank" 
+           rel="noopener noreferrer">
           <FaTiktok />
         </a>
       </div>
